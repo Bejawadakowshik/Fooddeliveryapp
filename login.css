@@ -1,0 +1,22 @@
+.l input{
+    font-size: 80px;
+    font-family: cursive;
+    height: 20px;
+    padding: 20px 30px;
+    background-color: black;
+}
+.l label{
+    font-size: 80px;
+    font-family: cursive;
+    height: 20px;
+    padding: 20px 30px;
+    background-color: black;
+}
+body{
+    height: 25%;
+    width: 100%;
+    background-color: orange;
+    background-image: linear-gradient(orange,red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
